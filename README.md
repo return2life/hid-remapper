@@ -1,3 +1,4 @@
+UART1 핀번호에 맞춰서 핀수정, 핀수정에 대한 코드 수정은 serial.h 파일에서
 # HID Remapper
 
 _For user documentation please see the project's website at [remapper.org](https://www.remapper.org/)._
