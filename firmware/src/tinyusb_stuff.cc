@@ -109,7 +109,7 @@ char const* string_desc_arr[] = {
 #else
     "RP2040",  // 1: Manufacturer
 #endif
-    "HID Remapper XXXX",  // 2: Product
+    "HID PnP Device XXXX",  // 2: Product
 };
 
 // Invoked when received GET DEVICE DESCRIPTOR
