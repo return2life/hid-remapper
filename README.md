@@ -1,5 +1,7 @@
 >>UART1 핀번호에 맞춰서 핀수정(시리얼통신가능핀), 핀수정에 대한 코드 수정은 serial.h 파일에서(firmware/src/serial.h)
+
 >>이파일은 수정해야되는지는 모르것고;; 다른사람이 수정한대로 일단 수정해서 플래싱했음(firmware/src/boards/waveshare_rp2040_pizero.h)
+
 >>프로덕트네임변경 tinyusb_stuff.cc
 
 # HID Remapper
